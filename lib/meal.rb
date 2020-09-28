@@ -10,7 +10,7 @@ class Meal
     @@all << self
   end
 
-  def self.all 
-    @@all 
-    and
+  def self.all
+    @@all
+  end
 end
